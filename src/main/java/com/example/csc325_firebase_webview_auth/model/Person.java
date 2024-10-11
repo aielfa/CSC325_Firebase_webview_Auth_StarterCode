@@ -1,20 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.example.csc325_firebase_webview_auth.model;
 
-/**
- *
- * @author MoaathAlrajab
- *
- *
- *
- *
- * Model:
- *
- *
- */
 public class Person {
     private String name;
     private String major;
@@ -49,7 +34,4 @@ public class Person {
     public void setAge(int age) {
         this.age = age;
     }
-    
-    
-    
 }

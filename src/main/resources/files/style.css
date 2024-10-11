@@ -1,0 +1,59 @@
+
+.menu-bar {
+    -fx-background-color: #A0522D;
+}
+
+.menu {
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 5 15 5 15;
+}
+
+
+.table-view {
+    -fx-background-color: white;
+}
+.table-view .table-column {
+    -fx-background-color: #737373;
+    -fx-text-fill: white;
+    -fx-padding: 0px;
+}
+
+.table-row-cell {
+    -fx-border-color: #A0522D;
+}
+
+.table-view:focused {
+    -fx-selection-bar: #7FFF00;
+}
+
+
+.text-field {
+    -fx-background-color: white;
+    -fx-border-color: gray;
+    -fx-border-width: 1px;
+    -fx-border-radius: 3px;
+    -fx-padding: 5px;
+    -fx-font-size: 12px;
+    -fx-max-height: 20pt;
+}
+.button {
+    -fx-background-color: #A0522D;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-padding: 0 0 0 0;
+    -fx-background-radius: 5px;
+}
+.vbox {
+    -fx-background-color: #7FFF00;
+    -fx-spacing: 10px;
+    -fx-padding: 20px;
+}
+
+.image-view {
+    -fx-padding: 10px;
+    -fx-background-color: rgb(160, 82, 45);
+}
+.border-pane {
+    -fx-background-color: #D3D3D3;
+}
